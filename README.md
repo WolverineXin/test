@@ -1,2 +1,4 @@
 # test
-learn how to use this github
+learn how to code 
+
+just follow the tutoral 
